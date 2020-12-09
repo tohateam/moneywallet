@@ -498,6 +498,7 @@
     <string name="recurrence_hint_weeks">недель</string>
     <string name="recurrence_hint_days">дней</string>
     <string name="recurrence_hint_every">Каждый</string>
+
     <string name="icon_category_finance">Финансы</string>
     <string name="icon_category_technology">Технологии</string>
     <string name="icon_category_beauty_and_wellness">Красота и здоровье</string>
@@ -512,6 +513,7 @@
     <string name="icon_category_toys">Игрушки</string>
     <string name="icon_category_people">Люди</string>
     <string name="icon_category_clothes">Одежда</string>
+
     <string name="help_fingerprint_not_initialized">На этом устройстве не зарегистрировано отпечатков пальцев</string>
     <string name="help_insert_fingerprint_failed">Проверка не удалась, повторите попытку</string>
     <string name="help_insert_fingerprint">Использовать отпечаток пальца, чтобы разблокировать</string>

@@ -920,6 +920,91 @@
           "resource": "ic_finance_17"
         }
       ]
-    }
+    },
+    {
+      "name": "icon_category_animals",
+      "icons": [
+        {
+          "resource": "ic_animals_1"
+        },
+        {
+          "resource": "ic_animals_2"
+        },
+        {
+          "resource": "ic_animals_3"
+        },
+        {
+          "resource": "ic_animals_4"
+        },
+        {
+          "resource": "ic_animals_5"
+        },
+        {
+          "resource": "ic_animals_7"
+        },
+        {
+          "resource": "ic_animals_8"
+        },
+        {
+          "resource": "ic_animals_9"
+        },
+        {
+          "resource": "ic_animals_10"
+        },
+        {
+          "resource": "ic_animals_11"
+        },
+        {
+          "resource": "ic_animals_12"
+        },
+        {
+          "resource": "ic_animals_13"
+        },
+        {
+          "resource": "ic_animals_14"
+        }
+      ]
+    },
+    {
+    "name": "icon_category_beauty_and_wellness",
+    "icons": [
+      {
+        "resource": "ic_bijouterie_1"
+      },
+      {
+        "resource": "ic_bijouterie_2"
+      },
+      {
+        "resource": "ic_bijouterie_3"
+      },
+      {
+        "resource": "ic_bijouterie_4"
+      },
+      {
+        "resource": "ic_cosmetics_1"
+      },
+      {
+        "resource": "ic_cosmetics_2"
+      },
+      {
+        "resource": "ic_medical_1"
+      },
+      {
+        "resource": "ic_medical_2"
+      },
+      {
+        "resource": "ic_medical_3"
+      },
+      {
+        "resource": "ic_medical_4"
+      },
+      {
+        "resource": "ic_medical_5"
+      },
+      {
+        "resource": "ic_medical_6"
+      }
+    ]
+  }
   ]
 }
