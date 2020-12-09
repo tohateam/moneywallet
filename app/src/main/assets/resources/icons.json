@@ -8,6 +8,66 @@
         },
         {
           "resource": "ic_icon_shoewear"
+        },
+        {
+          "resource": "ic_clothes_1"
+        },
+        {
+          "resource": "ic_clothes_2"
+        },
+        {
+          "resource": "ic_clothes_3"
+        },
+        {
+          "resource": "ic_clothes_4"
+        },
+        {
+          "resource": "ic_clothes_5"
+        },
+        {
+          "resource": "ic_clothes_6"
+        },
+        {
+          "resource": "ic_clothes_7"
+        },
+        {
+          "resource": "ic_clothes_8"
+        },
+        {
+          "resource": "ic_clothes_9"
+        },
+        {
+          "resource": "ic_clothes_10"
+        },
+        {
+          "resource": "ic_clothes_11"
+        },
+        {
+          "resource": "ic_clothes_12"
+        },
+        {
+          "resource": "ic_clothes_13"
+        },
+        {
+          "resource": "ic_clothes_14"
+        },
+        {
+          "resource": "ic_clothes_15"
+        },
+        {
+          "resource": "ic_clothes_16"
+        },
+        {
+          "resource": "ic_clothes_17"
+        },
+        {
+          "resource": "ic_clothes_18"
+        },
+        {
+          "resource": "ic_clothes_19"
+        },
+        {
+          "resource": "ic_clothes_20"
         }
       ]
     },
@@ -78,6 +138,63 @@
         },
         {
           "resource": "ic_icon_path_direction"
+        },
+        {
+          "resource": "ic_transport_1"
+        },
+        {
+          "resource": "ic_transport_2"
+        },
+        {
+          "resource": "ic_transport_3"
+        },
+        {
+          "resource": "ic_transport_4"
+        },
+        {
+          "resource": "ic_transport_5"
+        },
+        {
+          "resource": "ic_transport_6"
+        },
+        {
+          "resource": "ic_transport_7"
+        },
+        {
+          "resource": "ic_transport_8"
+        },
+        {
+          "resource": "ic_transport_9"
+        },
+        {
+          "resource": "ic_transport_10"
+        },
+        {
+          "resource": "ic_transport_11"
+        },
+        {
+          "resource": "ic_transport_12"
+        },
+        {
+          "resource": "ic_transport_13"
+        },
+        {
+          "resource": "ic_transport_14"
+        },
+        {
+          "resource": "ic_transport_15"
+        },
+        {
+          "resource": "ic_transport_16"
+        },
+        {
+          "resource": "ic_transport_17"
+        },
+        {
+          "resource": "ic_transport_18"
+        },
+        {
+          "resource": "ic_transport_19"
         }
       ]
     },
@@ -173,6 +290,384 @@
       "icons": [
         {
           "resource": "ic_icon_cocktail"
+        },
+        {
+          "resource": "ic_food_1"
+        },
+        {
+          "resource": "ic_food_2"
+        },
+        {
+          "resource": "ic_food_3"
+        },
+        {
+          "resource": "ic_food_4"
+        },
+        {
+          "resource": "ic_food_5"
+        },
+        {
+          "resource": "ic_food_6"
+        },
+        {
+          "resource": "ic_food_7"
+        },
+        {
+          "resource": "ic_food_8"
+        },
+        {
+          "resource": "ic_food_9"
+        },
+        {
+          "resource": "ic_food_10"
+        },
+        {
+          "resource": "ic_food_11"
+        },
+        {
+          "resource": "ic_food_12"
+        },
+        {
+          "resource": "ic_food_13"
+        },
+        {
+          "resource": "ic_food_14"
+        },
+        {
+          "resource": "ic_food_15"
+        },
+        {
+          "resource": "ic_food_16"
+        },
+        {
+          "resource": "ic_food_17"
+        },
+        {
+          "resource": "ic_food_18"
+        },
+        {
+          "resource": "ic_food_19"
+        },
+        {
+          "resource": "ic_food_20"
+        },
+        {
+          "resource": "ic_food_21"
+        },
+        {
+          "resource": "ic_food_22"
+        },
+        {
+          "resource": "ic_food_23"
+        },
+        {
+          "resource": "ic_food_24"
+        },
+        {
+          "resource": "ic_food_25"
+        },
+        {
+          "resource": "ic_food_26"
+        },
+        {
+          "resource": "ic_food_27"
+        },
+        {
+          "resource": "ic_food_28"
+        },
+        {
+          "resource": "ic_food_29"
+        },
+        {
+          "resource": "ic_food_30"
+        },
+        {
+          "resource": "ic_food_31"
+        },
+        {
+          "resource": "ic_food_32"
+        },
+        {
+          "resource": "ic_food_33"
+        },
+        {
+          "resource": "ic_food_34"
+        },
+        {
+          "resource": "ic_food_35"
+        },
+        {
+          "resource": "ic_food_36"
+        },
+        {
+          "resource": "ic_food_37"
+        },
+        {
+          "resource": "ic_food_38"
+        },
+        {
+          "resource": "ic_food_39"
+        },
+        {
+          "resource": "ic_food_40"
+        },
+        {
+          "resource": "ic_food_41"
+        },
+        {
+          "resource": "ic_food_42"
+        },
+        {
+          "resource": "ic_food_43"
+        },
+        {
+          "resource": "ic_food_44"
+        },
+        {
+          "resource": "ic_food_45"
+        },
+        {
+          "resource": "ic_food_46"
+        },
+        {
+          "resource": "ic_food_47"
+        },
+        {
+          "resource": "ic_food_48"
+        },
+        {
+          "resource": "ic_food_49"
+        },
+        {
+          "resource": "ic_food_50"
+        },
+        {
+          "resource": "ic_food_51"
+        },
+        {
+          "resource": "ic_food_52"
+        },
+        {
+          "resource": "ic_food_53"
+        },
+        {
+          "resource": "ic_food_54"
+        },
+        {
+          "resource": "ic_food_55"
+        },
+        {
+          "resource": "ic_food_56"
+        },
+        {
+          "resource": "ic_food_57"
+        },
+        {
+          "resource": "ic_food_58"
+        },
+        {
+          "resource": "ic_food_59"
+        },
+        {
+          "resource": "ic_food_60"
+        },
+        {
+          "resource": "ic_food_61"
+        },
+        {
+          "resource": "ic_food_62"
+        },
+        {
+          "resource": "ic_food_63"
+        },
+        {
+          "resource": "ic_food_64"
+        },
+        {
+          "resource": "ic_food_65"
+        },
+        {
+          "resource": "ic_food_66"
+        },
+        {
+          "resource": "ic_food_67"
+        },
+        {
+          "resource": "ic_food_68"
+        },
+        {
+          "resource": "ic_food_69"
+        },
+        {
+          "resource": "ic_food_70"
+        },
+        {
+          "resource": "ic_food_71"
+        },
+        {
+          "resource": "ic_food_72"
+        },
+        {
+          "resource": "ic_food_73"
+        },
+        {
+          "resource": "ic_food_74"
+        },
+        {
+          "resource": "ic_food_75"
+        },
+        {
+          "resource": "ic_food_76"
+        },
+        {
+          "resource": "ic_food_77"
+        },
+        {
+          "resource": "ic_food_78"
+        },
+        {
+          "resource": "ic_food_79"
+        },
+        {
+          "resource": "ic_food_80"
+        },
+        {
+          "resource": "ic_food_81"
+        },
+        {
+          "resource": "ic_food_82"
+        },
+        {
+          "resource": "ic_food_83"
+        },
+        {
+          "resource": "ic_food_84"
+        },
+        {
+          "resource": "ic_food_85"
+        },
+        {
+          "resource": "ic_food_86"
+        },
+        {
+          "resource": "ic_food_87"
+        },
+        {
+          "resource": "ic_food_88"
+        },
+        {
+          "resource": "ic_food_89"
+        },
+        {
+          "resource": "ic_food_90"
+        },
+        {
+          "resource": "ic_food_91"
+        },
+        {
+          "resource": "ic_food_92"
+        },
+        {
+          "resource": "ic_food_93"
+        },
+        {
+          "resource": "ic_food_94"
+        },
+        {
+          "resource": "ic_food_95"
+        },
+        {
+          "resource": "ic_food_96"
+        },
+        {
+          "resource": "ic_food_97"
+        },
+        {
+          "resource": "ic_food_98"
+        },
+        {
+          "resource": "ic_food_99"
+        },
+        {
+          "resource": "ic_food_100"
+        },
+        {
+          "resource": "ic_food_101"
+        },
+        {
+          "resource": "ic_food_102"
+        },
+        {
+          "resource": "ic_food_103"
+        },
+        {
+          "resource": "ic_food_104"
+        },
+        {
+          "resource": "ic_food_105"
+        },
+        {
+          "resource": "ic_food_106"
+        },
+        {
+          "resource": "ic_food_107"
+        },
+        {
+          "resource": "ic_food_108"
+        },
+        {
+          "resource": "ic_food_109"
+        },
+        {
+          "resource": "ic_food_110"
+        },
+        {
+          "resource": "ic_food_111"
+        },
+        {
+          "resource": "ic_food_112"
+        },
+        {
+          "resource": "ic_food_113"
+        },
+        {
+          "resource": "ic_food_114"
+        },
+        {
+          "resource": "ic_food_115"
+        },
+        {
+          "resource": "ic_food_116"
+        },
+        {
+          "resource": "ic_food_117"
+        },
+        {
+          "resource": "ic_food_118"
+        },
+        {
+          "resource": "ic_food_119"
+        },
+        {
+          "resource": "ic_food_120"
+        },
+        {
+          "resource": "ic_food_121"
+        },
+        {
+          "resource": "ic_food_122"
+        },
+        {
+          "resource": "ic_food_123"
+        },
+        {
+          "resource": "ic_food_124"
+        },
+        {
+          "resource": "ic_food_125"
+        },
+        {
+          "resource": "ic_food_126"
         }
       ]
     },
@@ -213,6 +708,57 @@
         },
         {
           "resource": "ic_icon_pos"
+        },
+        {
+          "resource": "ic_finance_1"
+        },
+        {
+          "resource": "ic_finance_2"
+        },
+        {
+          "resource": "ic_finance_3"
+        },
+        {
+          "resource": "ic_finance_4"
+        },
+        {
+          "resource": "ic_finance_5"
+        },
+        {
+          "resource": "ic_finance_6"
+        },
+        {
+          "resource": "ic_finance_7"
+        },
+        {
+          "resource": "ic_finance_8"
+        },
+        {
+          "resource": "ic_finance_9"
+        },
+        {
+          "resource": "ic_finance_10"
+        },
+        {
+          "resource": "ic_finance_11"
+        },
+        {
+          "resource": "ic_finance_12"
+        },
+        {
+          "resource": "ic_finance_13"
+        },
+        {
+          "resource": "ic_finance_14"
+        },
+        {
+          "resource": "ic_finance_15"
+        },
+        {
+          "resource": "ic_finance_16"
+        },
+        {
+          "resource": "ic_finance_17"
         }
       ]
     }
